@@ -1,10 +1,9 @@
 
 ## Hi, I'm Faris 👋
 
-# 🎓 Informatics Graduate (S.Kom.) | Backend Programmer
+🎓 Informatics Graduate (S.Kom.) | Backend Programmer
 
 Experienced in backend development through professional internships, building REST APIs, database-driven applications, and software solutions.
-
 
 ### Tech Stack
 
